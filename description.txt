@@ -1,0 +1,3 @@
+Changes your team every time you join a multiplayer world.
+
+Configure the team you join via the config in <TERRARIA FOLDER>/ModLoader/Mod Configs/AutoTeamJoin.json. Valid teams are: "red", "green", "blue", "yellow", and "purple" (case independent). Anything else will result in not joining a team.

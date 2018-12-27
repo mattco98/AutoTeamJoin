@@ -1,0 +1,12 @@
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\AutoTeamJoin.dll
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\AutoTeamJoin.pdb
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\bin\Debug\Terraria.exe
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\obj\Debug\AutoTeamJoin.csprojAssemblyReference.cache
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\obj\Debug\AutoTeamJoin.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\obj\Debug\AutoTeamJoin.csproj.CopyComplete
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\obj\Debug\AutoTeamJoin.dll
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\AutoTeamJoin\obj\Debug\AutoTeamJoin.pdb
